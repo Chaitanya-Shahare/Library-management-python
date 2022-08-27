@@ -1,6 +1,6 @@
 # Library-management-python
 
-###Statement:-
+### Statement:-
 The task is to create an “Online Library Management System”. For this, you have to create a library class that includes the following methods:
 
 Displaybook() : To display the available books
@@ -13,7 +13,7 @@ HarryLibrary=Library(listofbooks, library_name)
 
 After that, create a main function and run an infinite while loop that asks the users for their input that whether they want to display, lend, add or return a book.
 
-###Optional:-
+### Optional:-
 Maintain a dictionary for the users who own a book. Dictionary should take book name as a key and name of the person as a value. Whenever you lend a book to a user, you should maintain a dictionary.
 
 
